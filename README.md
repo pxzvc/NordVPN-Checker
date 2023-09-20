@@ -16,6 +16,6 @@ With threading (500 threads)
 Just download the .zip and extract it anywhere you'd like it
 run the main.bat and wait about 5 seconds for it to launch.
 
-Make sure your combolists are in the same directory as the 
+Make sure your combolists are in the same directory as the
 main.bat
 
