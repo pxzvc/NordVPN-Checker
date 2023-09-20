@@ -12,21 +12,10 @@ With threading (500 threads)
 ![Picture1](https://i.ibb.co/WtySJkP/Screenshot-34.png)
 
 ## Installation
-### Get Python
-If you dont have python installed, download python 3.7.6
-and make sure you click on the 'ADD TO PATH' option during
-the installation.
 
-1. pip install the requirements in cmd
-```
-pip install requests
-pip install colorama
-```
+Just download the .zip and extract it anywhere you'd like it
+run the main.bat and wait about 5 seconds for it to launch.
 
-2. then run the script..
-```
-python main.py
-```
-Make sure you are in the same directory as the 
-python file.
+Make sure your combolists are in the same directory as the 
+main.bat
 
